@@ -14,7 +14,7 @@ public class Java8ForEachExample {
 		List<Integer> myList = new ArrayList<Integer>();
 		for(int i=0; i<10; i++) myList.add(i);
 		
-		//adf
+		//adf df
 		//traversing using Iterator
 		Iterator<Integer> it = myList.iterator();
 		while(it.hasNext()){
