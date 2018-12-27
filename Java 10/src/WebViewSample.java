@@ -21,6 +21,7 @@ public class WebViewSample extends Application {
         stage.setScene(scene);
         scene.getStylesheets().add("webviewsample/BrowserToolbar.css");        
         stage.show();
+        System.out.println("asdfads");
     }
  
     public static void main(String[] args){
